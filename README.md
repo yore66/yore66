@@ -34,18 +34,4 @@ I’m building my skills step by step, starting with simple projects and growing
 <img src="https://img.icons8.com/color/48/github.png" />
 </p>
 
----
 
-## 📈 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yore66&show_icons=true&theme=default" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yore66&layout=compact" height="150"/>
-</p>
-
----
-
-## ✨ Let's Connect  
-<p align="center">
-<a href="#"><img src="https://img.icons8.com/ios-glyphs/30/github.png"/></a>
-<a href="#"><img src="https://img.icons8.com/ios-glyphs/30/linkedin.png"/></a>
-</p>
