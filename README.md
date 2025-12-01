@@ -3,26 +3,26 @@
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"/>
 
-أنا يارا، طالبة *علوم حاسب* أحب التعلّم، البرمجة، واكتشاف أشياء جديدة كل يوم 💡  
-أبغى أطور مهاراتي خطوة بخطوة وأسوي مشاريع بسيطة في البداية، وبعدين أكبر براحتي 🤍.
+I'm Yara, a Computer Science student who loves learning, coding, and exploring new things every day 💡  
+I’m building my skills step by step, starting with simple projects and growing at my own pace 🤍.
 
 ---
 
 ## 🌱 About Me  
 - 🎓 **Computer Science Student**  
-- 💻 أحب البرمجة والتجارب الجديدة  
-- ✨ أطمح أصير مطوّرة محترفة خطوة بخطوة  
-- 🌟 مبتدئة في GitHub وأتعلّم كيف أسوي مشاريع بسيطة  
-- 📚 أتعلم أساسيات: C++ – Python – Git/GitHub  
-- ☕ Currently learning: problem solving & OOP
+- 💻 Passionate about coding and new experiences  
+- ✨ Aiming to become a skilled developer  
+- 🌟 Beginner on GitHub, learning how to build simple projects  
+- 📚 Learning the basics: C++, Python, Git/GitHub  
+- ☕ Currently learning problem solving & OOP
 
 ---
 
 ## 🔭 What I'm Working On  
-- بناء مشاريع دراسية بسيطة  
-- تحسين مستوى البرمجة  
-- تعلم GitHub وإدارة المشاريع  
-- تعلم هياكل البيانات والخوارزميات خطوة بخطوة  
+- Building simple academic projects  
+- Improving my programming skills  
+- Learning GitHub and project management  
+- Studying data structures & algorithms  
 
 ---
 
@@ -38,11 +38,9 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YaraSultan&show_icons=true&theme=default" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraSultan&layout=compact" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yore66&show_icons=true&theme=default" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yore66&layout=compact" height="150"/>
 </p>
-
-> 🔄 **استبدلي** اسم المستخدم `YaraSultan` باسم حسابك في GitHub.
 
 ---
 
